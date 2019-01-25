@@ -1,0 +1,18 @@
+
+h1{
+color:darkgreen;
+font-family: Georgia;
+text-align:center;
+}
+
+p1{
+height: 25px;
+}
+
+a:link {
+text-decoration: none;
+}
+
+div.a {
+text-transform: uppercase;
+}

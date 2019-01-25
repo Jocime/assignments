@@ -1,0 +1,17 @@
+body {
+    background-color: #111111
+}
+h1 {
+    color: #e2e80f
+}
+p {
+    color: #eeeeee
+}
+span {
+    color: blue;
+    text-decoration: underline
+}
+#film-description{
+    font: 200;
+    font-style: italic
+}
