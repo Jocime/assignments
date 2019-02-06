@@ -1,0 +1,25 @@
+.grid{
+    display: grid;
+    grid-template: auto;
+}
+.grid1 {
+    height: 200px;
+    width: 100%;
+    background-color: #F5C6D6;
+    margin: auto;
+    padding: auto;
+}
+.grid2 {
+    height: 100px;
+    width: 250px;
+    background-color: #EE2E84;
+    margin: 1%;
+    grid-area: unset
+}
+.grid3 {
+    height: 100px;
+    width: 250px;
+    background-color: #EE2E84;
+    margin: 1%;
+    grid-area: unset;
+}
