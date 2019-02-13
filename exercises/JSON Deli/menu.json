@@ -1,0 +1,7 @@
+{
+    "appetizers": ["Quesadilla", "Mozarella Sticks", "Nachos", "Salsa"],
+    "Cold Sandwiches": ["BLT", "Turkey Avacado", "Cold Cut"],
+    "Hot Sandwiches": ["Grilled Cheese","Sloppy Joe", "Reuben"],
+    "Desserts": ["Ice Cream", "Chocolate Cake", "Pie"],
+    "Drinks": ["Soda", "Juice", "Milk", "Water"]
+}

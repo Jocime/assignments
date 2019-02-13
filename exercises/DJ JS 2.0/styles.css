@@ -1,0 +1,14 @@
+div {
+    background-color: lightblue;
+    width: 300px;
+    height: 300px;
+    border: 50px;
+    padding: 25px;
+    margin: 250px;
+    border-style: groove;
+    position: absolute;
+    opacity: initial;
+    transition-delay: 2s; 
+
+
+}
